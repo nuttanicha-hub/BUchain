@@ -1,6 +1,0 @@
-git clone https://github.com/nuttanicha-hub/BUchain.git
-cd BUchain
-# คัดลอกไฟล์ทั้งหมดจาก Replit มาใส่ที่นี่
-git add .
-git commit -m "Complete BUChain NFT Marketplace - Cyberpunk themed Web3 platform"
-git push origin main
